@@ -1,0 +1,12 @@
+,id,name,activity_id,activity_type,distance,average_grade,maximum_grade,elevation_high,elevation_low,elevation_profile,climb_category,city,state,country,start_latitude,start_longitude,end_latitude,end_longitude
+0,35374638,Main to Door,9743724307,Run,330.1,0.9,4.1,34.8,31.6,,0,,Western Cape,RSA,-34.021754,18.467138,-34.019397,18.465151
+1,11806975,Doordrift Rd Plumb to Van Ryn St,9743724307,Run,903.6,1.1,4.3,40.1,28.4,,0,Cape Town,Western Cape,South Africa,-34.019438,18.465232,-34.021653,18.456227
+2,22765735,"Up, up & away, St Joan's to robot",9743724307,Run,1320.1,2.4,8.1,60.0,28.0,,0,Cape Town,Western Cape,South Africa,-34.020028,18.460126,-34.021566,18.446337
+3,5806547,Midhurst Way Climb,9743724307,Run,442.7,16.6,11.0,11.6,-61.8,,0,Cape Town,WC,South Africa,-34.021583,18.453302,-34.02164,18.448529
+4,25092847,Bridge to CV,9743724307,Run,384.4,0.9,3.1,59.6,55.9,,0,Cape Town,Western Cape,South Africa,-34.021739,18.450695,-34.021387,18.446599
+5,22765753,Robot2Robot rocket run,9743724307,Run,565.6,0.7,4.7,63.7,59.0,,0,Cape Town,Western Cape,South Africa,-34.02163,18.446189,-34.026569,18.44475
+6,7996461,Kendal Sprint,9743724307,Run,1213.4,-2.6,4.1,65.3,33.7,,0,Cape Town,WC,South Africa,-34.0267,18.444768,-34.032654,18.455539
+7,7615920,Kendal kalamity,9743724307,Run,2078.7,-2.1,4.9,65.3,20.9,,0,Cape Town,WC,South Africa,-34.026987,18.444984,-34.03463,18.464835
+8,25490168,Over_Simon,9743724307,Run,269.5,-0.4,2.6,61.4,59.6,,0,Cape Town,Western Cape,South Africa,-34.027049,18.445057,-34.028024,18.44773
+9,35173632,Walloon-Boundary,9743724307,Run,1238.0,-2.7,-0.6,55.2,21.6,,0,,Western Cape,RSA,-34.028812,18.44945,-34.0343,18.460767
+10,24019302,Owen to Main down,9743724307,Run,878.6,-1.1,3.7,47.0,36.4,,0,Cape Town,Western Cape,South Africa,-34.032721,18.455939,-34.034488,18.464908
