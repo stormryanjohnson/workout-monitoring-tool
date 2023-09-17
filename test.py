@@ -31,7 +31,7 @@ activities_df['end_longitude'] = activities_df.end_latlng.apply(lambda x: x[1] i
 print(activities_df.columns)
 activities_df = activities_df.drop(['start_latlng', 'end_latlng'], axis=1)
 print(activities_df)
-activities_df.to_csv('df.csv')
+activities_df.to_csv('actiivities_summary.csv')
 
 activity_id = '9743724307'
 activity_url = f'https://www.strava.com/api/v3/activities/{activity_id}'
@@ -60,9 +60,9 @@ single_segment_df = single_segment_df[['id', 'name', 'activity_id', 'activity_ty
 ]]
 
 print(segments_df)
-segments_df.to_csv('seg.csv')
+segments_df.to_csv('activity_segments.csv')
 print(single_segment_df)
-single_segment_df.to_csv('single_seg.csv')
+single_segment_df.to_csv('single_segments.csv')
 
 # Example usage:
 # Assuming you have a DataFrame 'df' containing your data
